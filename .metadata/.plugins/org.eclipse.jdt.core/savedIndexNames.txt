@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+F:\Bgl_program\.metadata\.plugins\org.eclipse.jdt.core
+4088832729.index
+1194953819.index
